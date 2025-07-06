@@ -7,14 +7,14 @@ Olá, meu nome é Daniel da Silva Berling e tenho 28 anos. Sou natural do Rio de
 Sou apaixonado por tecnologia e sempre busco me atualizar sobre as últimas tendências e inovações do setor. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/daniel-berling97?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/daniel-berling97?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/daniel-berling97?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
