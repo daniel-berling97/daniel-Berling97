@@ -11,8 +11,8 @@ Sou apaixonado por tecnologia e sempre busco me atualizar sobre as últimas tend
     <img 
         alt="Enviar e-mail" 
         title="Enviar e-mail para mim" 
-        src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Gmail.png" 
-        style="width: 50px; height: auto;"
+        src="logo=social_148456636" 
+        
     />
 </a>
     <a href="https://github.com/daniel-berling97?tab=repositories&sort=stargazers">
