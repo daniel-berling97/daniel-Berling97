@@ -6,14 +6,6 @@ Olá, meu nome é Daniel da Silva Berling e tenho 28 anos. Sou natural do Rio de
 
 Sou apaixonado por tecnologia e sempre busco me atualizar sobre as últimas tendências e inovações do setor. 
 
-<p align="left">
-     <a href="mailto:berlingdb1997@gmail.com?subject=Assunto do Email">
-    <img 
-        alt="Enviar e-mail" 
-        title="Enviar e-mail para mim" 
-        src="logo=social_148456636" 
-        
-    />
 </a>
     <a href="https://github.com/daniel-berling97?tab=repositories&sort=stargazers">
         <img 
